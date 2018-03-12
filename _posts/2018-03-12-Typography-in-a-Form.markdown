@@ -9,4 +9,5 @@ NMIMS school of design is the new trend in my life. School of Design (SOD), for 
 
 
 
-[Typo form.pdf](https://github.com/Saima-K/Saima-K.github.io/files/1801692/6.pdf)
+
+![6](https://user-images.githubusercontent.com/36836466/37274780-76edd65c-2603-11e8-82ec-610a893e76ab.jpg)
