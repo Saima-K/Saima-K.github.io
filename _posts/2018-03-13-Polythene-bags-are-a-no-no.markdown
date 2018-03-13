@@ -6,7 +6,9 @@ date:   2018-03-13 10:19:00 +0530
 categories: jekyll update
 ---
 Polythene bags have posed a great deal of problems in the environment. They happen to clog gutters causing floods and water pollution, and harm animals in many ways. Polythene bags are suffocating the human existence. I made two posters spreading awareness about the same. Along with the customers, the vendors too need to be aware. My posters are made for two different user groups thus two different point of views of the same problem.
+
 Hope you like them.
+
 Please leave your feedbacks in the comments section below.
 
 
