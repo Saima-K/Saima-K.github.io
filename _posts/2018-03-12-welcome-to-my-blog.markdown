@@ -6,8 +6,8 @@ date:   2018-03-12 10:19:00 +0530
 categories: jekyll update
 ---
 Hey there!
-This is my first blog and i am really looking forward for an amazing one. Being a design student I work on pretty cool stuff that i would love to share with you guys. Well, I am still working on my blog and I need to change the theme, but I hope you like the content.
-Please leave feedback in the comments section below.
+This is my first blog and i am really looking forward for an amazing one. Being a design student I work on pretty cool stuff that i would love to share with you guys. Well, I am still working on my blog and need to make some updates, but I hope you like my work.
+Please leave your feedback in the comments section below.
 
 
 {% if page.comments %}
